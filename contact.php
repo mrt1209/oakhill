@@ -40,6 +40,8 @@ if($_POST["submit"]) {
 			<link rel="stylesheet" href="css/style-xlarge.css" />
 			<link rel="icon" type="image/png" href="images/logo_nofont.png">
 		</noscript>
+			<link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
+			<link rel="icon" type="image/png" href="favicon.png" />
 	</head>
 	<body>
 
